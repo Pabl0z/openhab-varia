@@ -1,8 +1,8 @@
-NEW=Nów
-WAXING_CRESCENT=Przybywający półksiężyc
-FIRST_QUARTER=Pierwsza kwadra
-WAXING_GIBBOUS=Przybywający księżyc
-FULL=Pełnia
-WANING_GIBBOUS=Ubywający księżyc
-THIRD_QUARTER=Trzecia kwadra
-WANING_CRESCENT=Ubywający półksiężyc
+NEW=🌑 Nów
+WAXING_CRESCENT=🌒 Wzrastający Sierp
+FIRST_QUARTER=🌓 Pierwsza Kwadra
+WAXING_GIBBOUS=🌔 Poszerzony Księżyc
+FULL=🌕 Pełnia
+WANING_GIBBOUS=🌖 Garbaty Księżyc
+THIRD_QUARTER=🌗 Trzecia Kwadra
+WANING_CRESCENT=🌘 Ubywający Sierp
